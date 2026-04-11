@@ -22,8 +22,7 @@ Zalecane parametry dla Ubuntu:
 Podczas instalacji Ubuntu wybierz **„Minimalna instalacja"** — mniej śmieci, szybsze VM.
 
 ### Kali Linux
-![zdjęcie instalacji kali](\Instalka.png)
-<img src="D:\Studia R2S4\CyberSec\narzedzia\Instalka.png">
+
 Kali najlepiej pobrać jako gotowy obraz VirtualBox (`.ova`) z oficjalnej strony `kali.org/get-kali` — sekcja **Virtual Machines**. Import przez `Plik → Importuj urządzenie wirtualne`. Oszczędza to instalację od zera i daje gotowy, skonfigurowany system.
 
 Domyślne dane logowania po imporcie: `kali` / `kali`.
