@@ -1,1 +1,0 @@
-NAT Bridge, Gateway, mostkowanie, współdzielony folder
